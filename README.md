@@ -46,7 +46,7 @@ A curated collection of **Exploratory Data Analysis (EDA)** and **data visualiza
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Data-Analytics-Projects-in-python.git
+git clone https://github.com/harshita-kaira/EDA-Project.git
 ```
 
 2. Open any folder to explore its dataset & steps.
